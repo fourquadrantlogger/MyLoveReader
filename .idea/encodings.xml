@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/andorid/shu/love/BookActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/andorid/shu/love/BookInfo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/andorid/shu/love/BookPageFactory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/andorid/shu/love/LoveReaderActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/andorid/shu/love/PageWidget.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/andorid/shu/love/SetupInfo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/android/FileBrowser/FileActivityHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/android/FileBrowser/FileAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/android/FileBrowser/FileComparator.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/android/FileBrowser/FileInfo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/android/FileBrowser/FileUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/android/FileBrowser/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/android/FileBrowser/PasteFile.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/artifex/mupdf/MuPDFActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/artifex/mupdf/MuPDFCore.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/artifex/mupdf/cut/CutActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/artifex/mupdf/cut/PdfManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/email/ReceiveAndSend.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/email/SendMail.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/email/Welcome.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/rss/util/CommonUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/sqlite/DbHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/wordandexcel/ExcelRead.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/wordandexcel/ViewFile.java" charset="UTF-8" />
+  </component>
+</project>
